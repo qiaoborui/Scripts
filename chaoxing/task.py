@@ -1,4 +1,6 @@
 """
+[task_local]
+#东东玩家
 20 0 * * * https://raw.githubusercontent.com/Ariszy/Private-Script/master/JD/zy_ddwj.js, tag= 东东玩家
 Author:str.
 Description:超星学习通作业提醒
