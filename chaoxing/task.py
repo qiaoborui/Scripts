@@ -1,4 +1,5 @@
 """
+cron "2 0-23/4 * * *" script-path=jd_cash.js,tag=签到领现金
 Author:str.
 Description:超星学习通作业提醒
 cron : "30 * * * *"
